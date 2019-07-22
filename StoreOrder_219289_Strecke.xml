@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WGSREQ02>
 	<IDOC BEGIN="1">
+	
 		<EDI_DC40 SEGMENT="1">
 			<TABNAM>EDI_DC40</TABNAM>
 			<DOCREL>753</DOCREL>
